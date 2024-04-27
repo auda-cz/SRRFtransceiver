@@ -34,3 +34,5 @@ Ensure the pigpio library is installed (`sudo apt-get install pigpio`). No daemo
 
 To compile, just call `make`, or `make clean` for cleaning.
 
+## License
+This project is released under GNU GPL-3.
